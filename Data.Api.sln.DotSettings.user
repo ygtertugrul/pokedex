@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=27577927_002D03d7_002D4af6_002D98ae_002Dab1700ef3fc6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetPokeInfoTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::29D6F712-49A4-487D-B85C-49281B0E1578::.NETCoreApp,Version=v5.0::Poke.Api.Tests.Service.GetPokeInfoTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29D6F712-49A4-487D-B85C-49281B0E1578::.NETCoreApp,Version=v5.0::Poke.Api.Tests.Service.GetPokeWithTranslationTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29D6F712-49A4-487D-B85C-49281B0E1578::.NETCoreApp,Version=v5.0::Poke.Api.Tests.Service.GetTranslatedDescriptionTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

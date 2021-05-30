@@ -1,0 +1,74 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/yigit.ertugrul/Projects/DataApiProject/Data.Api/Poke.Api.Tests/Poke.Api.Tests.csproj",
+    "projectName": "Poke.Api.Tests",
+    "projectPath": "/Users/yigit.ertugrul/Projects/DataApiProject/Data.Api/Poke.Api.Tests/Poke.Api.Tests.csproj",
+    "outputPath": "/Users/yigit.ertugrul/Projects/DataApiProject/Data.Api/Poke.Api.Tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp5.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp5.0": {
+        "projectReferences": {
+          "/Users/yigit.ertugrul/Projects/DataApiProject/Data.Api/Poke.Api/Poke.Api.csproj": {
+            "projectPath": "/Users/yigit.ertugrul/Projects/DataApiProject/Data.Api/Poke.Api/Poke.Api.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp5.0": {
+      "dependencies": {
+        "FluentAssertions": {
+          "target": "Package",
+          "version": "[5.10.3, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.10.0, )"
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.16.1, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+    }
+  }
+}
